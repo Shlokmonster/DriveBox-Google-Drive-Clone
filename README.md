@@ -2,7 +2,7 @@
 
 Welcome to **DriveBox** – a sleek, minimal, and secure Google Drive alternative. Built using **vanilla JavaScript**, **Clerk authentication**, and **AWS S3** for cloud storage. No frameworks. No fluff. Just raw modern web power. 🚀
 
-![DriveBox Screenshot](https://your-screenshot-link-if-any.com)
+
 
 ---
 
@@ -16,10 +16,6 @@ Welcome to **DriveBox** – a sleek, minimal, and secure Google Drive alternativ
 - 💡 Built with 100% **HTML, CSS, and Vanilla JS**
 
 ---
-
-## 📸 Demo
-
-**Live Preview:** [https://your-deployment-link.com](https://your-deployment-link.com)
 
 ---
 
@@ -75,7 +71,6 @@ npm run dev
 - [ ] File versioning
 - [ ] Drag-and-drop file upload
 - [ ] User storage limits
-- [ ] Dark mode 🌑
 
 ---
 
